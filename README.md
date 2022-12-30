@@ -26,7 +26,7 @@
 
 # AI视频修复的部分作品：
 -------------------------
-👉 **可直接点击这里————个人网站**： <a href="http://43.139.33.244/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+👉 **可直接点击这里————个人网站**： <a href="http://shallwechat.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 
 👉 **网站文章列表：**
  - [陈奕迅，2001，The Easy Ride Live-DAIN插帧+EDVR超分，2k，60帧](http://43.139.33.244/?p=230)
