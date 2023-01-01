@@ -14,7 +14,7 @@
 
   
 <!-- 图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0133b45c08ffd4a801209252e82ef6.gif&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1675168699&t=f7dcda2cf81bdcb6829e9073b6faf898"/></div>
 <br>
 
 </div>
@@ -29,8 +29,8 @@
 👉 **可直接点击这里————个人网站**： <a href="http://shallwechat.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 
 👉 **网站文章列表：**
- - [陈奕迅，2001，The Easy Ride Live-DAIN插帧+EDVR超分，2k，60帧](http://43.139.33.244/?p=230)
- - [东京物语（1953）小津安二郎 片段【上色】](http://43.139.33.244/?p=149)
- - [东京物语（1953）小津安二郎 片段【上色+超分】](http://43.139.33.244/?p=156)
- - [大路，1954，费里尼-DeepRemaster【上色】](http://43.139.33.244/?p=221)
- - [Frances Ha，2012，Noah Baumbach 【DeOldify上色】](http://43.139.33.244/?p=219)
+ - [陈奕迅，2001，The Easy Ride Live-DAIN插帧+EDVR超分，2k，60帧](http://shallwechat.cn/?p=230)
+ - [东京物语（1953）小津安二郎 片段【上色】](http://shallwechat.cn/?p=149)
+ - [东京物语（1953）小津安二郎 片段【上色+超分】](http://shallwechat.cn/?p=156)
+ - [大路，1954，费里尼-DeepRemaster【上色】](http://shallwechat.cn/?p=221)
+ - [Frances Ha，2012，Noah Baumbach 【DeOldify上色】](http://shallwechat.cn/?p=219)
