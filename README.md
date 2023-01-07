@@ -16,7 +16,7 @@
 <!-- 图片 -->
 <div align="center" >
 <a href="http://shallwechat.cn"> 
-<img src="http://shallwechat.cn/wp-content/uploads/2023/01/1.gif" />
+  <img src="http://shallwechat.cn/wp-content/uploads/2023/01/01lmoai3rr4x9km2pvqajj3033.gif" />
 </a>
 </div>
 <br>
@@ -39,7 +39,10 @@
  - [东京物语（1953）小津安二郎 片段【上色+超分】](http://shallwechat.cn/?p=156)
  - [大路，1954，费里尼-DeepRemaster【上色】](http://shallwechat.cn/?p=221)
  - [Frances Ha，2012，Noah Baumbach 【DeOldify上色】](http://shallwechat.cn/?p=219)
- 
 <a href="http://shallwechat.cn"> 
-<img src="http://shallwechat.cn/wp-content/uploads/2023/01/image_widget_nykz223yanl91.gif" />
+  <img src="http://shallwechat.cn/wp-content/uploads/2023/01/01mdg1w7e7up40amcdc2ta3136-1.gif" width="260" height="260" />
+</a>
+
+<a href="http://shallwechat.cn"> 
+  <img src="http://shallwechat.cn/wp-content/uploads/2023/01/image_widget_nykz223yanl91.gif" width="300" height="300" />
 </a>
