@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="http://shallwechat.cn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=ShallWeChat;欢迎来看我的作品展!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Shall&nbsp;We&nbsp;Chat;欢迎来看我的作品展!&center=true&size=30">
   </a>
 </h1>
 
@@ -42,7 +42,7 @@
 <a href="http://shallwechat.cn"> 
   <img src="http://shallwechat.cn/wp-content/uploads/2023/01/01mdg1w7e7up40amcdc2ta3136-1.gif" width="260" height="260" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://shallwechat.cn"> 
   <img src="http://shallwechat.cn/wp-content/uploads/2023/01/image_widget_nykz223yanl91.gif" width="300" height="300" />
 </a>
